@@ -37,9 +37,6 @@ td{
 	padding: 10px;
 	font-size: 13px;
 }
-a{
-	color: hotpink;
-}
 @media (max-width: 768px){
 	section: 90%
 }
