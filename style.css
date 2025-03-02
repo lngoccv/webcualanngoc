@@ -1,0 +1,45 @@
+header{
+
+	background-color: pink;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+section{
+	margin: 20px auto;
+	width: 80%;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 1.0);
+	border-radius: 20px;
+}
+.profile img{
+	display: block;
+	margin: auto auto;
+	border-radius: 50%;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+th{
+	background-color: pink;
+	color: white;
+}
+td{
+	padding: 10px;
+	text-align: center;
+	border: 1px solid #ddd;
+}
+.footer{
+	background-color: pink;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-size: 13px;
+}
+a{
+	color: hotpink;
+}
+@media (max-width: 768px){
+	section: 90%
+}
